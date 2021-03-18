@@ -1,0 +1,335 @@
+#header-search .header-search-submit,
+.newsletter-box-wrapper.shadow-box .input .ui.button,
+.wpu-profile-wrapper .section-heading .button,
+input[type="reset"],
+input[type="submit"],
+input[type="submit"],
+.site-footer .widget_newsletter .newsletter-box-wrapper.shadow-box .sidebar-social a:hover,
+.ui.button.btn_primary,
+.site-footer .newsletter-box-wrapper .input .ui.button,
+.site-footer .footer-social a:hover,
+.site-footer .widget_newsletter .newsletter-box-wrapper.shadow-box .sidebar-social a:hover,
+.coupon-filter .ui.menu .item .offer-count,
+.newsletter-box-wrapper.shadow-box .input .ui.button,
+.newsletter-box-wrapper.shadow-box .sidebar-social a:hover,
+.wpu-profile-wrapper .section-heading .button,
+.ui.btn.btn_primary,
+.ui.button.btn_primary,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.woocommerce button.button.alt,
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt {
+  background-color: #ee1c24;
+}
+
+.mySlides {
+  display: none
+}
+
+.slide_img img {
+  vertical-align: middle;
+}
+
+.primary-color,
+.primary-colored,
+a,
+.ui.breadcrumb a,
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus,
+.st-menu a:hover,
+.st-menu li.current-menu-item a,
+.nav-user-action .st-menu .menu-box a,
+.popular-stores .store-name a:hover,
+.store-listing-item .store-thumb-link .store-name a:hover,
+.store-listing-item .latest-coupon .coupon-title a,
+.store-listing-item .coupon-save:hover,
+.store-listing-item .coupon-saved,
+.coupon-modal .coupon-content .user-ratting .ui.button:hover i,
+.coupon-modal .coupon-content .show-detail a:hover,
+.coupon-modal .coupon-content .show-detail .show-detail-on,
+.coupon-modal .coupon-footer ul li a:hover,
+.coupon-listing-item .coupon-detail .user-ratting .ui.button:hover i,
+.coupon-listing-item .coupon-detail .user-ratting .ui.button.active i,
+.coupon-listing-item .coupon-listing-footer ul li a:hover,
+.coupon-listing-item .coupon-listing-footer ul li a.active,
+.coupon-listing-item .coupon-exclusive strong i,
+.cate-az a:hover,
+.cate-az .cate-parent>a,
+.site-footer a:hover,
+.site-breadcrumb .ui.breadcrumb a.section,
+.single-store-header .add-favorite:hover,
+.wpu-profile-wrapper .wpu-form-sidebar li a:hover,
+.ui.comments .comment a.author:hover {
+  color: #ee1c24;
+}
+
+textarea:focus,
+input[type="date"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="email"]:focus,
+input[type="month"]:focus,
+input[type="number"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="text"]:focus,
+input[type="time"]:focus,
+input[type="url"]:focus,
+input[type="week"]:focus {
+  border-color: #ee1c24;
+}
+
+.sf-arrows>li>.sf-with-ul:focus:after,
+.sf-arrows>li:hover>.sf-with-ul:after,
+.sf-arrows>.sfHover>.sf-with-ul:after {
+  border-top-color: #ee1c24;
+}
+
+.sf-arrows ul li>.sf-with-ul:focus:after,
+.sf-arrows ul li:hover>.sf-with-ul:after,
+.sf-arrows ul .sfHover>.sf-with-ul:after,
+.entry-content blockquote {
+  border-left-color: #ee1c24;
+}
+
+.ui.btn,
+.ui.btn:hover,
+.ui.btn.btn_secondary,
+.coupon-button-type .coupon-deal,
+.coupon-button-type .coupon-print,
+.coupon-button-type .coupon-code .get-code {
+  background-color: #ee1c24;
+}
+
+.a:hover,
+.secondary-color,
+.nav-user-action .st-menu .menu-box a:hover,
+.store-listing-item .latest-coupon .coupon-title a:hover,
+.ui.breadcrumb a:hover {
+  color: #ee1c24;
+}
+
+.store-thumb a:hover,
+.coupon-modal .coupon-content .modal-code .code-text,
+.single-store-header .header-thumb .header-store-thumb a:hover {
+  border-color: #ee1c24;
+}
+
+.coupon-button-type .coupon-code .get-code:after {
+  border-left-color: #ee1c24;
+}
+
+.coupon-listing-item .c-type .c-code,
+.coupon-filter .ui.menu .item .code-count {
+  background-color: #b9dc2f;
+}
+
+.coupon-listing-item .c-type .c-sale,
+.coupon-filter .ui.menu .item .sale-count {
+  background-color: #ea4c89;
+}
+
+.coupon-listing-item .c-type .c-print,
+.coupon-filter .ui.menu .item .print-count {
+  background-color: #2d3538;
+}
+
+body {
+  background-color: #f8f9f9;
+}
+
+.primary-header {
+  background-color: #222222;
+  background-size: inherit;
+}
+
+.header-highlight a .highlight-icon,
+.header-highlight a .highlight-text,
+.primary-header,
+.primary-header a,
+#header-search .search-sample a {
+  color: #b5b5b5;
+}
+
+body,
+p {
+  font-family: "Open Sans";
+  font-weight: normal;
+  font-size: 14px;
+}
+
+.site-footer {
+  background-color: #222222;
+}
+
+.site-footer,
+.site-footer .widget,
+.site-footer p {
+  color: #777777;
+}
+
+.site-footer a,
+.site-footer .widget a {
+  color: #CCCCCC;
+}
+
+.site-footer a:hover,
+.site-footer .widget a:hover {
+  color: #ffffff;
+}
+
+.site-footer .footer-columns .footer-column .widget .widget-title,
+.site-footer #wp-calendar caption {
+  color: #cccccc;
+}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {
+    opacity: .4
+  }
+
+  to {
+    opacity: 1
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: .4
+  }
+
+  to {
+    opacity: 1
+  }
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {
+    font-size: 11px
+  }
+}
+
+/* sajdn */
+.section-padding {
+  padding: 60px 0;
+}
+
+.brand-carousel {
+  background: #eee;
+  margin-top: 15%;
+}
+
+.owl-dots {
+  text-align: center;
+  margin-top: 4%;
+}
+
+.owl-dot {
+  display: inline-block;
+  height: 15px !important;
+  width: 15px !important;
+  background-color: #878787 !important;
+  opacity: 0.8;
+  border-radius: 50%;
+  margin: 0 5px;
+}
+
+.filterDiv {
+  float: left;
+  background-color: #2196F3;
+  color: #ffffff;
+  width: 100px;
+  line-height: 100px;
+  text-align: center;
+  margin: 2px;
+  display: none;
+  /* Hidden by default */
+}
+
+@media only screen and (max-width: 600px) {
+  .filterDiv {
+    width: 50%;
+  }
+}
+
+/* The "show" class is added to the filtered elements */
+.show {
+  display: block;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+/* Add a light grey background on mouse-over */
+.btn:hover {
+  background-color: #ddd;
+}
+
+/* Add a dark background to the active button */
+.btn.active {
+  background-color: #666;
+  color: white;
+}
