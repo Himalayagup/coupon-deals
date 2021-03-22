@@ -24,7 +24,7 @@ input[type="submit"],
 .woocommerce a.button.alt,
 .woocommerce button.button.alt,
 .woocommerce input.button.alt {
-  background-color: #ee1c24;
+  background-color: #ff9900;
 }
 
 .mySlides {
@@ -66,7 +66,7 @@ a,
 .single-store-header .add-favorite:hover,
 .wpu-profile-wrapper .wpu-form-sidebar li a:hover,
 .ui.comments .comment a.author:hover {
-  color: #ee1c24;
+  color: #ff9900;
 }
 
 textarea:focus,
@@ -83,20 +83,20 @@ input[type="text"]:focus,
 input[type="time"]:focus,
 input[type="url"]:focus,
 input[type="week"]:focus {
-  border-color: #ee1c24;
+  border-color: #ff9900;
 }
 
 .sf-arrows>li>.sf-with-ul:focus:after,
 .sf-arrows>li:hover>.sf-with-ul:after,
 .sf-arrows>.sfHover>.sf-with-ul:after {
-  border-top-color: #ee1c24;
+  border-top-color: #ff9900;
 }
 
 .sf-arrows ul li>.sf-with-ul:focus:after,
 .sf-arrows ul li:hover>.sf-with-ul:after,
 .sf-arrows ul .sfHover>.sf-with-ul:after,
 .entry-content blockquote {
-  border-left-color: #ee1c24;
+  border-left-color: #ff9900;
 }
 
 .ui.btn,
@@ -105,7 +105,7 @@ input[type="week"]:focus {
 .coupon-button-type .coupon-deal,
 .coupon-button-type .coupon-print,
 .coupon-button-type .coupon-code .get-code {
-  background-color: #ee1c24;
+  background-color: #ff9900;
 }
 
 .a:hover,
@@ -113,17 +113,17 @@ input[type="week"]:focus {
 .nav-user-action .st-menu .menu-box a:hover,
 .store-listing-item .latest-coupon .coupon-title a:hover,
 .ui.breadcrumb a:hover {
-  color: #ee1c24;
+  color: #ff9900;
 }
 
 .store-thumb a:hover,
 .coupon-modal .coupon-content .modal-code .code-text,
 .single-store-header .header-thumb .header-store-thumb a:hover {
-  border-color: #ee1c24;
+  border-color: #ff9900;
 }
 
 .coupon-button-type .coupon-code .get-code:after {
-  border-left-color: #ee1c24;
+  border-left-color: #ff9900;
 }
 
 .coupon-listing-item .c-type .c-code,
@@ -273,10 +273,10 @@ p {
 
 .brand-carousel {
   background: #eee;
-  margin-top: 15%;
 }
 
 .owl-dots {
+  visibility: hidden;
   text-align: center;
   margin-top: 4%;
 }
